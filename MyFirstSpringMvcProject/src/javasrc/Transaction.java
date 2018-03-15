@@ -4,7 +4,6 @@ public class Transaction {
 	private double premiumAmount;
 	private double rate;
 	private double yearBand;
-
 	private Account account;
 	
 	public Transaction() {	
