@@ -52,7 +52,7 @@ public class Transaction {
 			double calculetedAmount = premiumAmount * rate ;
 			return calculetedAmount;
 		}
-		// New comment P
+	
 		
 	}
 	
