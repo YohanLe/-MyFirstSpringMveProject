@@ -7,8 +7,13 @@ public class Transaction {
 
 	private Account account;
 	
-	public Transaction() {
-		
+	public Transaction() {	
+	}
+	
+	public Transaction(double pra, double rate,double yearBand){
+		this.pra= premiumAmount;
+		this.rate=rate;
+		this.yearBand=yearBand;
 	}
 
 	public double getPremiumAmount() {
