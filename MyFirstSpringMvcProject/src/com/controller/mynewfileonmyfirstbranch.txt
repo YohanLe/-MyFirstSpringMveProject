@@ -1,0 +1,2 @@
+def addnum:
+ res = 1 + 5
