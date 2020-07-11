@@ -1,2 +1,5 @@
 def addnum:
  res = 1 + 5
+
+
+added the secound function
